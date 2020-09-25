@@ -41,9 +41,12 @@
               <e p="HealthComponent.cs" t="Include" />
               <e p="PositionComponent.cs" t="Include" />
             </e>
-            <e p="CreateUnitySystem.cs" t="Include" />
-            <e p="HealthLoggerSystem.cs" t="Include" />
-            <e p="PositionLoggerSystem.cs" t="Include" />
+            <e p="Systems" t="Include">
+              <e p="CreateUnitySystem.cs" t="Include" />
+              <e p="GameSystems.cs" t="Include" />
+              <e p="HealthLoggerSystem.cs" t="Include" />
+              <e p="PositionLoggerSystem.cs" t="Include" />
+            </e>
           </e>
           <e p="GameController.cs" t="Include" />
         </e>

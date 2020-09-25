@@ -1,6 +1,7 @@
 ﻿using Entitas;
 using System.Collections;
 using System.Collections.Generic;
+using Assets.Scripts.ECS;
 using UnityEngine;
 
 public class GameController : MonoBehaviour
@@ -11,7 +12,7 @@ public class GameController : MonoBehaviour
     void Start()
     {
         _contexts = Contexts.sharedInstance;
-        _systems = CreateSystems();
+        _systems = new GameSystems(_contexts);
         _systems.Initialize();
         
     }
@@ -20,12 +21,5 @@ public class GameController : MonoBehaviour
     {
         _systems.Execute();
     }
-
-    private Systems CreateSystems()
-    {
-        return new Feature()
-            .Add(new CreateUnitySystem(_contexts))
-            .Add(new PositionLoggerSystem(_contexts.game))
-            .Add(new HealthLoggerSystem(_contexts.game));
-    }
+    
 }

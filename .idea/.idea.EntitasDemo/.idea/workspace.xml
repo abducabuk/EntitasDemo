@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/Component/HealthComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/Component/PositionComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/CreateUnitySystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ECS/GameSystems.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
       </list>
     </option>
@@ -42,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600974490442</updated>
       <workItem from="1600974495784" duration="1019000" />
-      <workItem from="1601016918598" duration="890000" />
+      <workItem from="1601016918598" duration="1765000" />
     </task>
     <servers />
   </component>
