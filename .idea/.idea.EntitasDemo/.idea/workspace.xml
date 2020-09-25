@@ -16,11 +16,11 @@
         <option value="$PROJECT_DIR$/Assets/Libraries/Script/CreatePlayerSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/HealthLoggerSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/PositionLoggerSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ECS/CreateUnitySystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/Component/HealthComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/Component/PositionComponent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ECS/CreateUnitySystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/GameSystems.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
       </list>
     </option>
   </component>
@@ -44,6 +44,7 @@
       <updated>1600974490442</updated>
       <workItem from="1600974495784" duration="1019000" />
       <workItem from="1601016918598" duration="1765000" />
+      <workItem from="1601023882406" duration="453000" />
     </task>
     <servers />
   </component>

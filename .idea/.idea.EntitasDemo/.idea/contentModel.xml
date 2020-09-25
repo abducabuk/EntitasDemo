@@ -37,15 +37,17 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="ECS" t="Include">
-            <e p="Component" t="Include">
+            <e p="GameSystems.cs" t="Include" />
+            <e p="Health" t="Include">
               <e p="HealthComponent.cs" t="Include" />
-              <e p="PositionComponent.cs" t="Include" />
-            </e>
-            <e p="Systems" t="Include">
-              <e p="CreateUnitySystem.cs" t="Include" />
-              <e p="GameSystems.cs" t="Include" />
               <e p="HealthLoggerSystem.cs" t="Include" />
+            </e>
+            <e p="Position" t="Include">
+              <e p="PositionComponent.cs" t="Include" />
               <e p="PositionLoggerSystem.cs" t="Include" />
+            </e>
+            <e p="Unit" t="Include">
+              <e p="CreateUnitySystem.cs" t="Include" />
             </e>
           </e>
           <e p="GameController.cs" t="Include" />

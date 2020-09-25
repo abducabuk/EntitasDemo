@@ -2,8 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class PositionComponent : IComponent
+[Game]
+public class HealthComponent : IComponent
 {
-    public Vector3 Value;
+    public float Value;
 }

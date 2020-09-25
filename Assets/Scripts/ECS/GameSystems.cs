@@ -4,12 +4,17 @@
     {
         public GameSystems(Contexts contexts)
         {
-            //InitializeSystems
+            // Input executes first
             Add(new CreateUnitySystem(contexts));
             
-            //ReactiveSystems
+            // Update 
             Add(new PositionLoggerSystem(contexts.game));
             Add(new HealthLoggerSystem(contexts.game));
+            
+            // Render executes after game logic 
+
+            // Destroy executes last
+
         }
     }
 }
