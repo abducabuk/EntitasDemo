@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b834699-bcf4-40be-99ad-34bbe11cd2cd" name="Default Changelist" comment="" />
+    <list default="true" id="8b834699-bcf4-40be-99ad-34bbe11cd2cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.EntitasDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EntitasDemo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EntitasDemo/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EntitasDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EntitasDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFFF7C0B-1952-412C-B811-8DDDD204A124/3b/6b046b80/IInitializeSystem.cs" root0="SKIP_HIGHLIGHTING" />
@@ -17,10 +43,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/HealthLoggerSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/PositionLoggerSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/CreateUnitySystem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/Component/HealthComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/Component/PositionComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ECS/GameSystems.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
       </list>
     </option>
   </component>
@@ -30,9 +56,33 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.environmentSetup" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,13 +95,81 @@
       <workItem from="1600974495784" duration="1019000" />
       <workItem from="1601016918598" duration="1765000" />
       <workItem from="1601023882406" duration="453000" />
+      <workItem from="1601025122845" duration="94000" />
+      <workItem from="1601025272586" duration="1438000" />
+      <workItem from="1601026842063" duration="1313000" />
+      <workItem from="1601028207372" duration="261000" />
+      <workItem from="1601028497357" duration="2272000" />
+      <workItem from="1601043027594" duration="135000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1028" y="514" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1601025213991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1028" y="514" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601025213991" />
+    <state x="670" y="198" key="RiderGenerateDialog" timestamp="1601031130218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="198" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601031130218" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1601043094139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601043094139" />
+    <state x="739" y="364" key="cloudConfig.PluginsDialog" timestamp="1601043138288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="364" key="cloudConfig.PluginsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601043138288" />
+    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog" timestamp="1601043150335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="364" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601043150335" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601028400574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601028400574" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601027122044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601027122044" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameController.cs</url>
+          <line>13</line>
+          <properties documentPath="C:\Github\EntitasDemo\Assets\Scripts\GameController.cs" initialLine="13">
+            <startOffsets>
+              <option value="261" />
+            </startOffsets>
+            <endOffsets>
+              <option value="297" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
